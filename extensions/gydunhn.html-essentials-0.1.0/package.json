@@ -1,0 +1,82 @@
+{
+	"name": "html-essentials",
+	"displayName": "HTML-Essentials",
+	"description": "Web Design essential extensions for visual studio code",
+	"icon": "img/essentials.png",
+	"galleryBanner": {
+		"color": "#01524A",
+		"theme": "dark"
+	},
+	"license": "LICENSE.md",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/Gydunhn/HTML-Essentials.git"
+	},
+	"keywords": [
+		"VSC",
+		"VSCode",
+		"Visual Studio",
+		"Visual Studio Code",
+		"VSC Essentials",
+		"Essentials",
+		"Esenciales",
+		"Essenciais",
+		"Essentiel",
+		"Essenziali",
+		"Essentielles",
+		"Esencajoj",
+		"必需品",
+		"골자",
+		"अत्यावश्यकम्",
+		"ملزومات",
+		"Web",
+		"Design",
+		"WebDesign",
+		"Web Design",
+		"HTML",
+		"Hint",
+		"HTMLHint",
+		"CSS",
+		"HTML CSS Support",
+		"Tag",
+		"Rename Tag",
+		"Auto Complete Tag",
+		"Snippets",
+		"HTML Snippets",
+		"CSS Snippets",
+		"Awesome",
+		"Color",
+		"Color Highlight",
+		"Highlight",
+		"Matching Tag",
+		"Gydunhn",
+		"Elite"
+	],
+	"version": "0.1.0",
+	"publisher": "Gydunhn",
+	"engines": {
+		"vscode": "^1.35.0"
+	},
+	"categories": [
+		"Extension Packs"
+	],
+	"extensionPack": [
+		"HTMLHint.vscode-htmlhint",
+		"ecmel.vscode-html-css",
+		"formulahendry.auto-complete-tag",
+		"vincaslt.highlight-matching-tag",
+		"naumovs.color-highlight",
+		"pranaygp.vscode-css-peek",
+		"joy-yu.css-snippets"
+	],
+	"__metadata": {
+		"id": "d01c599d-da63-4f55-a92b-33488926de3e",
+		"publisherId": "5ba0db5c-54ed-404d-85d3-eb4f8e655371",
+		"publisherDisplayName": "Gydunhn",
+		"targetPlatform": "undefined",
+		"updated": false,
+		"isPreReleaseVersion": false,
+		"installedTimestamp": 1701205299503,
+		"preRelease": false
+	}
+}
